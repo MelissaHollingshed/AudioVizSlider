@@ -1,0 +1,2 @@
+# AudioVizSlider
+JavaFXML project
